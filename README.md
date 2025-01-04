@@ -39,6 +39,14 @@ Axios: Cliente HTTP para enviar solicitudes a la API.
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/amarismariano/frontend-tests.git
-   cd frontend-tests
+   git clone https://github.com/amarismariano/backend-tests.git
+   cd backend-tests-mariano
    ```
+
+
+2. Instala las dependencias:
+npm install
+
+3. Corre las pruebas:
+npm test
+
